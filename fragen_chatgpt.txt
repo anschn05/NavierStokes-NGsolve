@@ -1,0 +1,30 @@
+--- direkter Ansatz ---
+Hallo, ich habe eine Aufgabe für dich. Kannst du mir bitte einen Code für ein Jupyter-Notebook erstellen, der mithilfe von NGSolve eine Strömung simuliert. 
+Dazu soll er die NavierStokes Gleichungen mithilfe der Finite-Elemente-Methode (FEM) lösen.
+Die Strömung soll dabei von einem zylinderförmigen Hindernis gestört werden, was die Simulation berücksichtigen und somit auch die erzeugten Strudel nach dem Hindernis abbilden soll.
+
+
+--- Errors zählen, bis funktioniert ---
+KEIN BEFEHL FÜR CHATGPT, sondern seinen direkten Ansatz kompilieren, ChatGPT die Error-Message zurückgeben und mitzählen wie lange er braucht, bis er es selber hinkriegt (nicht selber nachbessern)
+
+
+--- Grundaufbau ---
+Hallo, ich möchte eine Wasserströmung mit der NavierStokes-Gleichung simulieren und dafür mit NGSolve arbeiten. Benutzten möchte ich gerne die Finite-Elemente-Methode (FEM).
+Kannst du mir bitte eine Anleitung für den Grundaufbau eines solchen Simulations-Codes mit NGSolve schreiben (, damit ich ca. weiß, wie die Struktur für solch einen Code aussehen soll).
+
+--- LGS lösen ---
+Hallo, ich möchte eine Wasserströmung mit der NavierStokes-Gleichung simulieren und dafür mit NGSolve arbeiten. Benutzten möchte ich gerne die Finite-Elemente-Methode (FEM).
+Wenn ich die Gleichungen aber in die schwache Form übersetze, weiß ich nicht genau, wie ich diese lösen soll. Kannst du mir bitte mögliche Ansätze in NGSolve zum Lösen dieser Gleichungssysteme geben und jeweils einen Code dafür schreiben.
+
+--- Anleitung ---
+Hallo, ich möchte eine Wasserströmung mit der NavierStokes-Gleichung simulieren und dafür mit NGSolve arbeiten. Benutzten möchte ich gerne die Finite-Elemente-Methode (FEM).
+Kannst du mir dafür bitte eine genaue Anleitung geben und erklären wie ich diesen Code schreiben soll.
+
+--- ChatGPT als NGSolve-Lehrer ---
+Hallo, ich möchte eine Wasserströmung mit der NavierStokes-Gleichung simulieren und dafür mit NGSolve arbeiten. Benutzten möchte ich gerne die Finite-Elemente-Methode (FEM).
+Da ich noch nicht viel über NGSolve weiß, möchte ich dich bitten mir alle, und ich meine wirklich alle wichtigen Befehle, Funktionen usw. beibringen bzw. erklären, die ich zum Simulieren dieser Aufgabe kennen und beherrschen muss. Achte darauf, dass du alle Funktionen abdeckst und gut erklärst, sodass ich anschließend nicht mehr nachfragen muss. Erkläre mir also, wie man sie anwendet, wie sie im Hintergrund arbeiten (auch die Mathematik dahinter), warum sie wichtig sind und wofür sie verwendet werden. 
+Bring mir also alles über NGSolve bei, sodass ich anschließend die Simulation schreiben kann.
+
+
+--- selber Debuggen ---
+KEIN BEFEHL FÜR CHATGPT. Nach ChatGPT als Lehrer, schauen ob man seinen Ansatz zum Funktionieren bringt ---
