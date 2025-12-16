@@ -1,3 +1,3 @@
 # NavierStokes-NGsolve
 
-edited in ReadMe
+[Notebook-Dokumentation](docs/mainpage.ipynb)
