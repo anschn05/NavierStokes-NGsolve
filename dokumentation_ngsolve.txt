@@ -3,9 +3,14 @@ Hallo, ich habe eine Aufgabe für dich. Kannst du mir bitte einen Code für ein 
 Dazu soll er die NavierStokes Gleichungen mithilfe der Finite-Elemente-Methode (FEM) lösen.
 Die Strömung soll dabei von einem zylinderförmigen Hindernis gestört werden, was die Simulation berücksichtigen und somit auch die erzeugten Strudel nach dem Hindernis abbilden soll. (Karmansche Wirbelstraße)
 
-Fazit:
+CHATGPT:
 -	Probleme beim erstellen der Geometrie, kennt die Funktionensweisen von NGSolve zu wenig, nach 3x Fehler zurückgeben, funktioniert die Geometrie des codes
--	
+-	Probleme bei Bilinearform a(u,v) mit "Innerproduct"...
+COPILOT:
+
+
+DEEPSEEK:
+
 
 
 
