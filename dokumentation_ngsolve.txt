@@ -6,6 +6,10 @@ Die Strömung soll dabei von einem zylinderförmigen Hindernis gestört werden, 
 CHATGPT:
 -	Probleme beim erstellen der Geometrie, kennt die Funktionensweisen von NGSolve zu wenig, nach 3x Fehler zurückgeben, funktioniert die Geometrie des codes
 -	Probleme bei Bilinearform a(u,v) mit "Innerproduct"...
+-	simuliert Nulllösung!
+=> konstante Dichte, inkompressibel
+
+
 COPILOT:
 
 
