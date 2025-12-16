@@ -1,0 +1,33 @@
+# Book settings
+title: NavierStokes-NGsolve Dokumentation
+author: Your Name
+copyright: "2025"
+
+# Force re-execution of notebooks on each build
+execute:
+  execute_notebooks: force
+  timeout: 300
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/anschn05/NavierStokes-NGsolve
+
+# Add GitHub buttons to your book
+html:
+  use_issues_button: false
+  use_repository_button: true
+
+# MyST extensions
+parse:
+  myst_enable_extensions:
+    - html_image
+    - dollarmath
+    - amsmath
+    - linkify
+    - colon_fence
+  myst_dmath_double_inline: true
